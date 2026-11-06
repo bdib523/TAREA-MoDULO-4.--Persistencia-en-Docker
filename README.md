@@ -4,8 +4,6 @@
 
 En esta práctica se trabaja con Docker para aprender a utilizar volúmenes, bind mounts y contenedores basados en PHP y Apache.
 
-También se configura un entorno de depuración PHP utilizando Xdebug y Visual Studio Code.
-
 ---
 
 # 1. Volúmenes Docker
