@@ -175,6 +175,3 @@ En ambos contenedores debe aparecer el contenido de `index.html`.
 
 Con esta práctica he aprendido a crear y administrar volúmenes Docker para mantener datos, utilizar bind mounts para compartir carpetas entre Windows y los contenedores, y configurar contenedores con PHP y Apache.
 
-Además, he aprendido a crear una imagen personalizada con Xdebug y conectar el entorno Docker con Visual Studio Code para depurar aplicaciones PHP mediante puntos de interrupción.
-
-De esta manera, he podido trabajar con almacenamiento persistente, compartir archivos entre el sistema anfitrión y los contenedores y realizar pruebas de depuración de código PHP.
